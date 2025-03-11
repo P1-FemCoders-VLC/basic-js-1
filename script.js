@@ -6,7 +6,7 @@ console.log('Hola soy tu consola y juntas vamos a aprender Javascript')
 
 //Si has encontrado el mensaje puedes continuar con los ejercicios
 
-//Ejercicio 1: Imprime en la consola "Bienvenida/o al bootcamp P2 Juniors (BCN Singulars) de Factoría F5" y mira en tu navegador si sale el resultado.
+//Ejercicio 1: Imprime en la consola "Bienvenida/o al bootcamp Femcoders de Factoría F5" y mira en tu navegador si sale el resultado.
 
 //Escribe tu código aquí
 
